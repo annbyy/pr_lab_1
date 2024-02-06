@@ -1,6 +1,9 @@
-#include <iostream>
+using System;
 
-int main() {
-    std::cout << "Hello World" << std::endl;
-    return 0;
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello World");
+    }
 }
